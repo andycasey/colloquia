@@ -1,0 +1,32 @@
+**Madhusudhan**: *Big Questions in Exoplanetary Science*
+
+- Planetary diversity: 
+  - planetary system architectures; 
+  - planetary environments (host stars, disks, satellites); 
+  - planetary bulk properties (Mp, Rp, Tp, etc); 
+  - planetary processes (atmospheres, interiors, surfaces)
+- Planetary systems are extremely diverse in all aspects of orbital architectures (orbital eccentricities, obliquities, period ratios, multiplicity, compactness, demographics, and just *strangeness*) [Winn & Fabrycky 2015; Winn 2010]
+- Most exoplanets are within the orbit of Mercury: you could have 6 planets within the orbit of Mercury
+- Numerous detections of protoplanetary disks, debris disks, exozodiacal dust, and polluted white dwarfs — this shows diersity in planetary environments during and after formation
+- Big questions on planetary architecture:
+  - How unique is the architecure of the Solar system?
+  - What is \n_earth?
+  - What is the true occurence rate of giant exoplanets?
+    - Transit and RV demographics are period limited
+    - Direct imaging surveys have not detected many giants
+  - What is the influence of outer giant planets and disks on smaller inner planets and vice-versa?
+  - How do planets interact with their environments?
+  - How common are exomoons and rings?
+- Exoplanetary properties [Biechman]
+  - Planet masses are almost continuous: if you take mass as a metric, planets are extremely diverse
+  - Transit and RV surveys show that low-mass "rocky" planets are extremely common (most dominant planet type; Fressin et al. (2013))
+  - Fe vaporises at 3,000 K
+  - **How diverse are exoplanetary atmospheres and interiors?**
+- Big questions on the diversity of exoplanetary atmospheres:
+  - Chemical compositions (abundances, C/O ratios, etc)
+  - Equilibrium and non-equilibrium chemical processes
+  - Temperature structures, stratospheres, etc
+  - Aerosols: Clouds, hazes, condensates
+  - Atmospheric circulation
+  - Exospheres and atmospheric escape
+  - Geophysical and biological feedback
